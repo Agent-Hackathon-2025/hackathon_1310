@@ -14,3 +14,7 @@ Test your agent by, for example, creating a name for a project you‘re currentl
 ## Tips
 
 Feel free to play with the instructions to get even more out of it!
+
+---
+
+![Name it! Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/raw/main/Name-it-Agent/Name-it-Agent.jpg)

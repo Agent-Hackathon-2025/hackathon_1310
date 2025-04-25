@@ -24,3 +24,7 @@ Feel free to play with the instructions to get even more out of it!
 ## Bonus Task
 
 Use Copilot or a visual creator to design a logo for your agent!
+
+---
+
+![Surface Documentation Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/raw/main/Surface-Documentation-Agent/Surface-Documentation-Agent.jpg)

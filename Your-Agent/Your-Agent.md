@@ -21,7 +21,7 @@ Groups will collaboratively brainstorm, build, and present their own agent use-c
 
 - Results should be captured on a whiteboard or in a shared document.
 
-### 3. Building the Agent (90 minutes)
+### 3. Building the Agent (30 minutes)
 - Each team builds a functional prototype based on their idea.
 - The agent must be built **exclusively using the Agent Builder in Microsoft Copilot for BizChat**.
 
@@ -38,21 +38,6 @@ Groups will collaboratively brainstorm, build, and present their own agent use-c
 
 ### 5. Feedback and Closing (15 minutes)
 - Short feedback session: What went well? What could be improved?
-
----
-
-## Guidelines
-- Keep it simple: prioritize quality over quantity.
-- Creativity matters more than perfection.
-- Collaboration and communication within the team are key.
-- Stick to using **Agent Builder in Copilot for BizChat only**.
-
----
-
-## Optional Materials
-- Physical or digital whiteboard (e.g., Miro, Mural)
-- User story templates
-- Visible timer for all participants
 
 ---
 

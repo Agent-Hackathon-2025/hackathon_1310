@@ -17,6 +17,9 @@ Klicke auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelangen:
 - [👥 Onboarding Buddy Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Onboarding-Assistant-Agent/Onboarding-Assistant-Agent.md)  
   *Hilf neuen Teammitgliedern mit einem Agenten, der das interne Onboarding-Wissen kennt.*
 
+- [👥 Copilot Studio Labs](https://microsoft.github.io/copilot-camp/pages/make/copilot-studio/)
+  *Lab MCS - Understanding Microsoft Copilot Studio
+
 ---
 
 ## Weitere Ressourcen

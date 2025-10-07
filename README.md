@@ -1,6 +1,6 @@
 # Agent Hackathon – Übersicht der Aufgaben
 
-Willkommen zum ZEISS Agent Hackathon!  
+Willkommen zum **Zeiss Agent Hackathon**!  
 Hier finden Sie die verschiedenen Aufgaben und die dazugehörigen Beschreibungen.  
 Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelangen:
 

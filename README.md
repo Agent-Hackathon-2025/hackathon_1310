@@ -9,16 +9,16 @@ Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelange
 ## Aufgaben
 
 - [🧠 Name it! Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Name-it-Agent/Name-it-Agent.md)  
-  *Erstelle einen kreativen Namensgeber-Agenten.*
+  *Erstellen Sie einen kreativen Namensgeber-Agenten.*
 
 - [💻 Microsoft Surface Documentation Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Surface-Documentation-Agent/Surface-Documentation-Agent.md)  
-  *Beantworte Surface-bezogene Fragen mit Wissen aus der Microsoft Learn Website.*
+  *Beantworten Sie Surface-bezogene Fragen mit Wissen aus der Microsoft Learn Website.*
 
 - [👥 Onboarding Buddy Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Onboarding-Assistant-Agent/Onboarding-Assistant-Agent.md)  
-  *Hilf neuen Teammitgliedern mit einem Agenten, der das interne Onboarding-Wissen kennt.*
+  *Helfen Sie neuen Teammitgliedern mit einem Agenten, der das interne Onboarding-Wissen kennt.*
 
 - [🌞 Weather Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Weather%20agent/weather_actions.md)
-  *Erstelle einen Agenten, der dir das aktuelle Wetter sagt*
+    *Erstellen Sie einen Agenten, der Ihnen das aktuelle Wetter sagt*
 
 - [🧪 Copilot Studio Labs](https://microsoft.github.io/copilot-camp/pages/make/copilot-studio/)
   *Lab MCS - Understanding Microsoft Copilot Studio.*

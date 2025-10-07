@@ -29,8 +29,8 @@ Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelange
 
 - [🧠 How to write effective instructions](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/declarative-agent-instructions)  
 - [💻 Bing Search Terms](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Bing%20Search%20Terms/Bing_search_terms.md)  
-- [🗞️ Governance whitepaper](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)  
-- [🧰 Management resources](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-copilot-agents-integrated-apps?view=o365-worldwide)  
+- [🗞️ Agent Governance whitepaper](https://adoption.microsoft.com/files/copilot-studio/Agent-governance-whitepaper.pdf)  
+- [🧰 Manage Copilot Agents](https://learn.microsoft.com/en-us/microsoft-365/admin/manage/manage-copilot-agents-integrated-apps?view=o365-worldwide)  
 
   
 - [🚀 Erste Schritte mit dem Agent Builder (Copilot Camp)](https://microsoft.github.io/copilot-camp/pages/make/agent-builder/01-first-agent/)  

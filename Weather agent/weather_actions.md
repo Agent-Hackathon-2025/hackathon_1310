@@ -42,3 +42,14 @@ The default list shown has Power Automate Flows and custom connectors available 
 <img width="1039" height="756" alt="image" src="https://github.com/user-attachments/assets/d2bcbfa5-cee3-4c36-9e9a-4ad76d95965d" />
 
 <img width="938" height="141" alt="image" src="https://github.com/user-attachments/assets/022cc114-4e35-4b33-a5bd-58b09ba6956e" />
+
+
+<img width="1381" height="777" alt="image" src="https://github.com/user-attachments/assets/068c41f6-e183-434f-8c15-ec6e5083a8f3" />
+
+
+
+
+
+
+
+

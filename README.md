@@ -8,7 +8,7 @@ Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelange
 
 ## Aufgaben  
 
-- [🧠 Name it! Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Name-it-Agent/Name-it-Agent.md)  
+- [🧠 Name it! Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Name-it-Agent/Name-it_Agent.md)  
   *Erstellen Sie einen kreativen Namensgeber-Agenten.*
 
 - [💻 Microsoft Surface Documentation Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Surface-Documentation-Agent/Surface-Documentation-Agent.md)  

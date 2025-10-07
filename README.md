@@ -17,7 +17,7 @@ Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelange
 - [👥 Onboarding Buddy Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Onboarding-Assistant-Agent/Onboarding-Assistant-Agent.md)  
   *Hilf neuen Teammitgliedern mit einem Agenten, der das interne Onboarding-Wissen kennt.*
 
-- [🌞 Weather Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/weather_actions.md)
+- [🌞 Weather Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Weather%20agent/weather_actions.md)
   *Erstelle einen Agenten, der dir das aktuelle Wetter sagt*
 
 - [🧪 Copilot Studio Labs](https://microsoft.github.io/copilot-camp/pages/make/copilot-studio/)

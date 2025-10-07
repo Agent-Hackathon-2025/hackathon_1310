@@ -27,19 +27,21 @@ By default, tools return their information back to the agent, so that the agent 
 \
 The default list shown has Power Automate Flows and custom connectors available within your environment. This list includes commonly used prebuilt connectors and Bot Framework Skills that are registered with your agent.
 \
-\
-![Overview of available actions](media/Weather1.png)
+
+<img width="1042" height="757" alt="image" src="https://github.com/user-attachments/assets/ca269e58-9d1b-4316-8cb4-409826dd35b7" />
+
 
 6. In this tutorial, we’re using the “Get current weather” tool from MSN Weather. Search for it in the search box on the right hand side:
 \
 \
-![Filtered actions, with the "Send an email" action marked](media/Weather2.png)
+<img width="1040" height="753" alt="image" src="https://github.com/user-attachments/assets/88ddd69e-d5a1-49c2-91de-931fe8e3880e" />
+
 7. Depending on the tool, your connection is automatically configured, as it is in this example. Otherwise, follow the wizard's instructions to configure the connection. Once your connection is successfully configured, select **Add to agent**.
 8. In the overview, the description of the tool is used by the agent to know when to use this action. For our example, the default value of “Get the current weather for a location.” works perfectly fine. In the configuration part of the tool, you can configure what information is given to the action when executed (Inputs), and what information shall be given back to the agent after the execution (Outputs). We'll skip this for now, as for the weather agent the defaults work perfectly fine. 
 \
 \
-![Action Input configuration UI where "Body" is set to be dynamically filled](media/Weather3.png)
+<img width="1040" height="757" alt="image" src="https://github.com/user-attachments/assets/9749552a-f1c1-47ef-abd4-7880e42d3edc" />
 
-![Action Input configuration UI where "Body" is set to be dynamically filled](media/Weather4.png)
+<img width="1039" height="756" alt="image" src="https://github.com/user-attachments/assets/78d6c81c-73d7-4834-9cee-aee9e1963f8c" />
 
-![Action Input configuration UI where "Body" is set to be dynamically filled](media/Weather5.png)
+<img width="938" height="141" alt="image" src="https://github.com/user-attachments/assets/d99762a2-9ea4-4eaa-b928-20821d80525f" />

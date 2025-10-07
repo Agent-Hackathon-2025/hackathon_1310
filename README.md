@@ -11,10 +11,10 @@ Klicken Sie auf eine der Aufgaben, um direkt zur jeweiligen Anleitung zu gelange
 - [🧠 Name it! Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Name-it-Agent/Name-it_Agent.md)  
   *Erstellen Sie einen kreativen Namensgeber-Agenten.*
 
-- [💻 Microsoft Surface Documentation Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Surface-Documentation-Agent/Surface-Documentation-Agent.md)  
+- [💻 Microsoft Surface Documentation Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Surface-Documentation-Agent/Surface-Documentation-Agent.md)  
   *Beantworten Sie Surface-bezogene Fragen mit Wissen aus der Microsoft Learn Website.*
 
-- [👥 Onboarding Buddy Agent](https://github.com/Agent-Hackathon-2025/Hackathon2804/blob/main/Onboarding-Assistant-Agent/Onboarding-Assistant-Agent.md)  
+- [👥 Onboarding Buddy Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Onboarding-Assistant-Agent/Onboarding-Assistant-Agent.md)  
   *Helfen Sie neuen Teammitgliedern mit einem Agenten, der das interne Onboarding-Wissen kennt.*
 
 - [🌞 Weather Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Weather%20agent/weather_actions.md)  

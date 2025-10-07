@@ -28,3 +28,4 @@ You can download the ready-to-use zip file directly here:
 [⬇️ Download HR_Agent.zip](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Onboarding-Assistant-Agent/HR_Agent.zip)
 
 ---
+![Onboarding-Assistan-Agent](https://github.com/Agent-Hackathon-2025/hackathon_1310/blob/main/Onboarding-Assistant-Agent/Onboarding-Agent.jpg)

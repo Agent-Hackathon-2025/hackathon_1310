@@ -9,7 +9,6 @@
 
 - Add the SharePoint Document Library:  
   **HR → Documents → All Documents** as knowledge.
-- Disable **Web search**.
 
 ## Test Your Agent
 
